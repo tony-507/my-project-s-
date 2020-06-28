@@ -1,6 +1,6 @@
-# my-project-s-
+# my project(s)
 
-This repository contains projects that I do when I am self-studying data analytics from Coursera and web applications from some textbooks. Refer to the sections below for more information.
+This repository contains projects that I do when I am self-studying data analytics from Coursera and web applications from some textbooks. Most projects are still under development. Refer to the sections below for more information.
 
 
 ## Learning Log
