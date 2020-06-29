@@ -11,12 +11,15 @@ This is a small data analytics project from the book **Python Crash Course** by 
 
 ## Learning Log
 
-This is a project from the book **Python Crash Course** by **Eric Matthes**. The project uses Django as the framework. It employs basic client-server technology to allow interactions between users:
-  - Existence of admin (superuser)
-  - Create, edit and delete entries
+This is a project from the book **Python Crash Course** by **Eric Matthes**. The project aims to demonstrate the usage of Django framework. It provides the following functionalities:
+  - Creation of users
+  - User-owned topics and entries
+  - Data protection from unauthorized access
+
+To make the application more complete, I am attempting to develop the following additional features:
+  [] Deleting entries and topics by a user
+  [] Searching entries
   
-Throughout this project, the following techniques are utilized:
-  - Form handling
-  - Decomposition into modules
-  - Inheritance of modules
-  - Use of Boostrap templates
+## ML_MATLAB
+
+This is a machine learning project on MATLAB based on courses offered by Coursera. The project employs MATLAB for learning.
