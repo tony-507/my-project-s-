@@ -15,11 +15,12 @@ This is a project from the book **Python Crash Course** by **Eric Matthes**. The
   - Creation of users
   - User-owned topics and entries
   - Data protection from unauthorized access
-
-To make the application more complete, I am attempting to develop the following additional features:
-  [] Deleting entries and topics by a user
-  [] Searching entries
+  
+The project is deployed using Heroku, with the link https://shrouded-reaches-12756.herokuapp.com.
   
 ## ML_MATLAB
 
-This is a machine learning project on MATLAB based on courses offered by Coursera. The project employs MATLAB for learning.
+This is a machine learning project on MATLAB based on courses offered by Stanford University on Coursera. The project employs MATLAB for learning and teaches the following algorithms:
+  - Regressions for inference and classification
+  - Neural network for nonlinear model (forward and backward propagation)
+  - Clustering
