@@ -25,9 +25,6 @@ This is a project from the book **Python Crash Course** by **Eric Matthes**. The
   
 The project is deployed using Heroku, with the link https://proj-django-learning-log.herokuapp.com.
   
-## ML_MATLAB
+## Discrete mathematics
 
-This is a machine learning project on MATLAB based on courses offered by Stanford University on Coursera. The project employs MATLAB for learning and teaches the following algorithms:
-  - Regressions for inference and classification
-  - Neural network for nonlinear model (forward and backward propagation)
-  - Clustering
+This is a file containing codes to some mathematical problems like magic squares.
