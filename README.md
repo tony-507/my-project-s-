@@ -8,6 +8,8 @@ This is a simple game project from the book **Python Crash Course** by **Eric Ma
   - alien can also shoot bullets
   - the ship gets a shield every 2 level, with a corresponding shield image
   - the highest score can be kept even after quitting game by writing it to an external text file
+  
+Since I have not played the real version of the game, my modification is different from the true game.
 
 ## Data
 
@@ -15,16 +17,15 @@ This is a small data analytics project from the book **Python Crash Course** by 
   - matplotlib
   - seaborn
   - request
+  
+## Database
+
+This contains my programming assignment from Coursera python database course. This course talks about implementing SQLite in Python and DB browser. It describes relational databases -- one-to-one, many-to-one and many-to-many.
 
 ## Learning Log
 
-This is a project from the book **Python Crash Course** by **Eric Matthes**. The project aims to demonstrate the usage of Django framework. It provides the following functionalities:
-  - Creation of users
-  - User-owned topics and entries
-  - Data protection from unauthorized access
-  
-The project is deployed using Heroku, with the link https://proj-django-learning-log.herokuapp.com.
+This is a project from the book **Python Crash Course** by **Eric Matthes**. The project aims to demonstrate the usage of Django framework. The project is deployed using Heroku, with the link https://proj-django-learning-log.herokuapp.com. However, I may not further update the project.
   
 ## Discrete mathematics
 
-This is a file containing codes to some mathematical problems like magic squares.
+This is a file containing codes to some mathematical problems like magic squares, 8 queens.
