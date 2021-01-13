@@ -17,7 +17,7 @@ Since I have not played the real version of the game, my modification is differe
 
 ## Data
 
-This is a small data analytics project from the book **Python Crash Course** by **Eric Matthes**. The project uses Python to analyze data from web and present those data in different forms, e.g. bar chart, scatter plot and world map. It employs the following libraries:
+This folder contains some small programs on statistics and data analytics. Some of them come from the book **Python Crash Course** by **Eric Matthes** and the remains are coded during my own study of the subject. The project uses Python to analyze data from web and present those data in different forms, e.g. bar chart, scatter plot and world map. It employs the following libraries:
   - matplotlib
   - seaborn
   - request
