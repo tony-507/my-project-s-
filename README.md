@@ -6,6 +6,10 @@ This repository contains projects that I do when I am self-studying data analyti
 
 This is a folder containing the codes in Coursera machine learning courses, including regression, neural network, clustering, SVM and recommendation system.
 
+## ML_Python
+
+This folder contains small machine learning programs done by Python. Libraries used are sklearn, matplotlib, tensorflow.
+
 ## Alien Invasion
 
 This is a simple game project from the book **Python Crash Course** by **Eric Matthes**. The project uses Pygame as framework to reconstruct the classic arcade game "Space Invaders". The project employs basic functionalities of Pygame such as time, sprite and group. I have attempted to add some features not taught in the book:
